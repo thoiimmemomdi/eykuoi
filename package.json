@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "hpack": "^1.0.0",
+    "jsdom": "^24.1.1",
+    "os-utils": "^0.0.14",
+    "socks": "^2.8.3"
+  }
+}
